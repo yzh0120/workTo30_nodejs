@@ -1,0 +1,48 @@
+﻿[2020-04-02T10:33:04.656] [INFO] headPorLog - 删除原头像失败@: publicdefault.jpg 错误原因@: [Error: ENOENT: no such file or directory, unlink 'F:\good\nodejs\publicdefault.jpg'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: 'F:\\good\\nodejs\\publicdefault.jpg'
+}
+[2020-04-02T13:11:17.184] [INFO] headPorLog - 删除原头像失败@: undefined 错误原因@: [Error: ENOENT: no such file or directory, unlink 'F:\good\nodejs\undefined'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: 'F:\\good\\nodejs\\undefined'
+}
+[2020-04-26T21:50:29.860] [INFO] headPorLog - 删除原头像失败@: publicdefault.jpg 错误原因@: [Error: ENOENT: no such file or directory, unlink 'F:\good\nodejs\publicdefault.jpg'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: 'F:\\good\\nodejs\\publicdefault.jpg'
+}
+[2020-06-07T14:40:16.448] [INFO] headPorLog - 删除原头像失败@: public\headPor\47u15915119817304c8g20m一年1999.png 错误原因@: [Error: ENOENT: no such file or directory, unlink 'H:\good\nodejs\public\headPor\47u15915119817304c8g20m一年1999.png'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: 'H:\\good\\nodejs\\public\\headPor\\47u15915119817304c8g20m一年1999.png'
+}
+[2020-06-20T12:31:29.163] [INFO] headPorLog - 删除原头像失败@: publicdefault.jpg 错误原因@: [Error: ENOENT: no such file or directory, unlink 'H:\aaa\good\nodejs\publicdefault.jpg'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: 'H:\\aaa\\good\\nodejs\\publicdefault.jpg'
+}
+[2020-06-20T13:00:19.438] [INFO] headPorLog - 删除原头像失败@: publicdefault.jpg 错误原因@: [Error: ENOENT: no such file or directory, unlink 'H:\aaa\good\nodejs\publicdefault.jpg'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: 'H:\\aaa\\good\\nodejs\\publicdefault.jpg'
+}
+[2020-06-20T13:18:36.692] [INFO] headPorLog - 删除原头像失败@: publicdefault.jpg 错误原因@: [Error: ENOENT: no such file or directory, unlink 'H:\aaa\good\nodejs\publicdefault.jpg'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: 'H:\\aaa\\good\\nodejs\\publicdefault.jpg'
+}
+[2020-06-20T13:26:17.435] [INFO] headPorLog - 删除原头像失败@: publicdefault.jpg 错误原因@: [Error: ENOENT: no such file or directory, unlink 'H:\aaa\good\nodejs\publicdefault.jpg'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'unlink',
+  path: 'H:\\aaa\\good\\nodejs\\publicdefault.jpg'
+}

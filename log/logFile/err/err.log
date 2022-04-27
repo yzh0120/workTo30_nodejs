@@ -1,0 +1,516 @@
+[2020-04-02T12:40:37.426] [ERROR] errLog - 读取文章txt失败@: article\45and1585801182118.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\45and1585801182118.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\45and1585801182118.txt'
+}
+[2020-04-02T12:44:22.146] [ERROR] errLog - 读取文章txt失败@: article\45and1585801182118.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\45and1585801182118.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\45and1585801182118.txt'
+}
+[2020-04-04T20:43:38.117] [ERROR] errLog - 读取文章txt失败@: article\48and1586003803127.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586003803127.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586003803127.txt'
+}
+[2020-04-04T20:44:13.040] [ERROR] errLog - 读取文章txt失败@: article\48and1586003803127.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586003803127.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586003803127.txt'
+}
+[2020-04-04T20:44:16.210] [ERROR] errLog - 读取文章txt失败@: article\48and1586003803127.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586003803127.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586003803127.txt'
+}
+[2020-04-04T20:45:54.533] [ERROR] errLog - 读取文章txt失败@: article\48and1586003803127.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586003803127.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586003803127.txt'
+}
+[2020-04-06T10:43:47.448] [ERROR] errLog - 读取文章txt失败@: article\48and1585915723362.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1585915723362.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1585915723362.txt'
+}
+[2020-04-06T10:53:42.553] [ERROR] errLog - 读取文章txt失败@: article\48and1586003803127.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586003803127.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586003803127.txt'
+}
+[2020-04-06T10:53:44.438] [ERROR] errLog - 读取文章txt失败@: article\48and1586003803127.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586003803127.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586003803127.txt'
+}
+[2020-04-06T10:54:40.973] [ERROR] errLog - 读取文章txt失败@: article\48and1585915681119.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1585915681119.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1585915681119.txt'
+}
+[2020-04-06T10:54:43.339] [ERROR] errLog - 读取文章txt失败@: article\48and1585915681119.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1585915681119.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1585915681119.txt'
+}
+[2020-04-06T10:54:55.435] [ERROR] errLog - 读取文章txt失败@: article\48and1586003803127.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586003803127.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586003803127.txt'
+}
+[2020-04-06T10:54:57.964] [ERROR] errLog - 读取文章txt失败@: article\48and1585915681119.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1585915681119.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1585915681119.txt'
+}
+[2020-04-06T10:57:17.152] [ERROR] errLog - 读取文章txt失败@: article\48and1586003803127.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586003803127.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586003803127.txt'
+}
+[2020-04-06T11:00:52.832] [ERROR] errLog - 读取文章txt失败@: article\48and1586003803127.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586003803127.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586003803127.txt'
+}
+[2020-04-06T11:00:57.575] [ERROR] errLog - 读取文章txt失败@: article\48and1586003803127.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586003803127.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586003803127.txt'
+}
+[2020-04-06T11:01:18.249] [ERROR] errLog - 读取文章txt失败@: article\48and1586003803127.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586003803127.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586003803127.txt'
+}
+[2020-04-06T11:03:41.082] [ERROR] errLog - 读取文章txt失败@: article\48and1585915723362.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1585915723362.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1585915723362.txt'
+}
+[2020-04-06T12:11:56.571] [ERROR] errLog - 读取文章txt失败@: article\48and1585915723362.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1585915723362.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1585915723362.txt'
+}
+[2020-04-06T12:12:31.106] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T13:16:25.250] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T13:17:17.718] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T13:48:23.158] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T14:09:02.812] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T14:24:27.632] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T14:54:05.248] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T15:51:38.488] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T15:54:09.610] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T15:54:37.971] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T15:55:36.415] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T15:55:53.298] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T15:57:09.051] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-06T15:59:45.060] [ERROR] errLog - 读取文章txt失败@: article\48and1586003803127.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586003803127.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586003803127.txt'
+}
+[2020-04-06T15:59:49.139] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T10:08:07.532] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T10:35:23.441] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T10:35:23.451] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T10:52:13.025] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T10:57:23.151] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T10:57:23.191] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T12:38:29.400] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T12:40:25.877] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T12:40:25.881] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T12:41:08.799] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T12:41:12.488] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T12:41:18.328] [ERROR] errLog - 读取文章txt失败@: article\48and1585915681119.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1585915681119.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1585915681119.txt'
+}
+[2020-04-24T12:41:27.837] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T17:33:19.405] [ERROR] errLog - 读取文章txt失败@: article\48and1585915723362.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1585915723362.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1585915723362.txt'
+}
+[2020-04-24T17:33:22.505] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T17:33:32.828] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T17:35:47.146] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T17:37:34.430] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T17:37:34.804] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T17:37:34.857] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T17:38:43.888] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T17:38:49.177] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T17:38:53.346] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T17:40:06.661] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-24T17:40:12.390] [ERROR] errLog - 读取文章txt失败@: article\48and1586146325918.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1586146325918.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1586146325918.txt'
+}
+[2020-04-26T22:04:19.259] [ERROR] errLog - 读取文章txt失败@: article\48and1585915723362.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1585915723362.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1585915723362.txt'
+}
+[2020-04-26T22:04:19.344] [ERROR] errLog - 读取文章txt失败@: article\48and1585915723362.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1585915723362.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1585915723362.txt'
+}
+[2020-04-26T22:04:30.966] [ERROR] errLog - 读取文章txt失败@: article\48and1585915723362.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\48and1585915723362.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\48and1585915723362.txt'
+}
+[2020-05-25T06:33:23.403] [ERROR] errLog - 读取文章txt失败@: article\47and1590131220270.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\47and1590131220270.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\47and1590131220270.txt'
+}
+[2020-05-25T06:33:23.473] [ERROR] errLog - 读取文章txt失败@: article\47and1590131220270.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\47and1590131220270.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\47and1590131220270.txt'
+}
+[2020-05-25T06:33:26.416] [ERROR] errLog - 读取文章txt失败@: article\47and1590122501231.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\47and1590122501231.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\47and1590122501231.txt'
+}
+[2020-05-25T06:33:35.381] [ERROR] errLog - 读取文章txt失败@: article\47and1590131220270.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\47and1590131220270.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\47and1590131220270.txt'
+}
+[2020-05-25T06:33:35.425] [ERROR] errLog - 读取文章txt失败@: article\47and1590131220270.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\47and1590131220270.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\47and1590131220270.txt'
+}
+[2020-05-25T06:37:21.534] [ERROR] errLog - 读取文章txt失败@: article\47and1590131220270.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\47and1590131220270.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\47and1590131220270.txt'
+}
+[2020-05-26T13:41:18.642] [ERROR] errLog - 读取文章txt失败@: article\47and1590131220270.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\47and1590131220270.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\47and1590131220270.txt'
+}
+[2020-05-26T13:41:18.669] [ERROR] errLog - 读取文章txt失败@: article\47and1590131220270.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'F:\good\nodejs\article\47and1590131220270.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'F:\\good\\nodejs\\article\\47and1590131220270.txt'
+}
+[2020-06-05T09:08:35.073] [ERROR] errLog - 读取文章txt失败@: article\47and1591246298187.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1591246298187.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1591246298187.txt'
+}
+[2020-06-05T09:08:35.333] [ERROR] errLog - 读取文章txt失败@: article\47and1591246298187.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1591246298187.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1591246298187.txt'
+}
+[2020-06-05T09:14:48.549] [ERROR] errLog - 读取文章txt失败@: article\47and1591246298187.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1591246298187.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1591246298187.txt'
+}
+[2020-06-05T09:14:48.586] [ERROR] errLog - 读取文章txt失败@: article\47and1591246298187.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1591246298187.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1591246298187.txt'
+}
+[2020-06-05T09:14:51.758] [ERROR] errLog - 读取文章txt失败@: article\47and1591246262174.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1591246262174.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1591246262174.txt'
+}
+[2020-06-05T09:15:03.029] [ERROR] errLog - 读取文章txt失败@: article\47and1591246298187.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1591246298187.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1591246298187.txt'
+}
+[2020-06-05T09:15:05.689] [ERROR] errLog - 读取文章txt失败@: article\47and1591246262174.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1591246262174.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1591246262174.txt'
+}
+[2020-06-05T09:15:09.431] [ERROR] errLog - 读取文章txt失败@: article\47and1591245725239.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1591245725239.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1591245725239.txt'
+}
+[2020-06-05T09:15:37.020] [ERROR] errLog - 读取文章txt失败@: article\47and1590122501231.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1590122501231.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1590122501231.txt'
+}
+[2020-06-05T09:15:41.909] [ERROR] errLog - 读取文章txt失败@: article\47and1590122339476.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1590122339476.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1590122339476.txt'
+}
+[2020-06-06T06:36:00.262] [ERROR] errLog - 读取文章txt失败@: article\47and1591246298187.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1591246298187.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1591246298187.txt'
+}
+[2020-06-06T06:38:49.337] [ERROR] errLog - 读取文章txt失败@: article\47and1591246298187.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1591246298187.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1591246298187.txt'
+}
+[2020-06-06T06:38:57.671] [ERROR] errLog - 读取文章txt失败@: article\47and1591246262174.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1591246262174.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1591246262174.txt'
+}
+[2020-06-06T16:42:30.586] [ERROR] errLog - 读取文章txt失败@: article\47and1590120778362.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1590120778362.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1590120778362.txt'
+}
+[2020-06-06T16:42:30.739] [ERROR] errLog - 读取文章txt失败@: article\47and1590120778362.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\good\nodejs\article\47and1590120778362.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\good\\nodejs\\article\\47and1590120778362.txt'
+}
+[2020-06-16T15:38:22.668] [ERROR] errLog - 读取文章txt失败@: article\47and1590122501231.txt 错误原因@: [Error: ENOENT: no such file or directory, open 'H:\aaa\good\nodejs\article\47and1590122501231.txt'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'open',
+  path: 'H:\\aaa\\good\\nodejs\\article\\47and1590122501231.txt'
+}

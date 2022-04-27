@@ -1,0 +1,9 @@
+PM2 部署 nodejs 项目
+
+
+在node 项目上
+执行 pm2 start app.js -i 1
+
+
+
+pm2 delete all 

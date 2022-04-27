@@ -1,0 +1,365 @@
+
+{
+  "header": {
+    "reportVersion": 1,
+    "event": "Allocation failed - JavaScript heap out of memory",
+    "trigger": "FatalError",
+    "filename": "report.20200604.111122.20120.0.001.json",
+    "dumpEventTime": "2020-06-04T11:11:22Z",
+    "dumpEventTimeStamp": "1591240282336",
+    "processId": 20120,
+    "cwd": "F:\\good\\nodejs",
+    "commandLine": [
+      "node",
+      "app.js"
+    ],
+    "nodejsVersion": "v12.10.0",
+    "wordSize": 64,
+    "arch": "x64",
+    "platform": "win32",
+    "componentVersions": {
+      "node": "12.10.0",
+      "v8": "7.6.303.29-node.16",
+      "uv": "1.31.0",
+      "zlib": "1.2.11",
+      "brotli": "1.0.7",
+      "ares": "1.15.0",
+      "modules": "72",
+      "nghttp2": "1.39.2",
+      "napi": "4",
+      "llhttp": "1.1.4",
+      "http_parser": "2.8.0",
+      "openssl": "1.1.1c",
+      "cldr": "35.1",
+      "icu": "64.2",
+      "tz": "2019a",
+      "unicode": "12.1"
+    },
+    "release": {
+      "name": "node",
+      "headersUrl": "https://nodejs.org/download/release/v12.10.0/node-v12.10.0-headers.tar.gz",
+      "sourceUrl": "https://nodejs.org/download/release/v12.10.0/node-v12.10.0.tar.gz",
+      "libUrl": "https://nodejs.org/download/release/v12.10.0/win-x64/node.lib"
+    },
+    "osName": "Windows_NT",
+    "osRelease": "10.0.18363",
+    "osVersion": "Windows 10 Home China",
+    "osMachine": "x86_64",
+    "cpus": [
+      {
+        "model": "AMD A10-8700P Radeon R6, 10 Compute Cores 4C+6G",
+        "speed": 1797,
+        "user": 37397875,
+        "nice": 0,
+        "sys": 63968406,
+        "idle": 346333109,
+        "irq": 2177546
+      },
+      {
+        "model": "AMD A10-8700P Radeon R6, 10 Compute Cores 4C+6G",
+        "speed": 1797,
+        "user": 33634234,
+        "nice": 0,
+        "sys": 53298343,
+        "idle": 360766343,
+        "irq": 486812
+      },
+      {
+        "model": "AMD A10-8700P Radeon R6, 10 Compute Cores 4C+6G",
+        "speed": 1797,
+        "user": 33165718,
+        "nice": 0,
+        "sys": 46512265,
+        "idle": 368020937,
+        "irq": 597750
+      },
+      {
+        "model": "AMD A10-8700P Radeon R6, 10 Compute Cores 4C+6G",
+        "speed": 1797,
+        "user": 31040781,
+        "nice": 0,
+        "sys": 39894343,
+        "idle": 376763796,
+        "irq": 561765
+      }
+    ],
+    "networkInterfaces": [
+      {
+        "name": "WLAN",
+        "internal": false,
+        "mac": "40:b8:9a:f9:7b:f7",
+        "address": "fe80::3007:8f0d:1c82:951b",
+        "netmask": "ffff:ffff:ffff:ffff::",
+        "family": "IPv6",
+        "scopeid": 5
+      },
+      {
+        "name": "WLAN",
+        "internal": false,
+        "mac": "40:b8:9a:f9:7b:f7",
+        "address": "192.168.1.101",
+        "netmask": "255.255.255.0",
+        "family": "IPv4"
+      },
+      {
+        "name": "Loopback Pseudo-Interface 1",
+        "internal": true,
+        "mac": "00:00:00:00:00:00",
+        "address": "::1",
+        "netmask": "ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff",
+        "family": "IPv6",
+        "scopeid": 0
+      },
+      {
+        "name": "Loopback Pseudo-Interface 1",
+        "internal": true,
+        "mac": "00:00:00:00:00:00",
+        "address": "127.0.0.1",
+        "netmask": "255.0.0.0",
+        "family": "IPv4"
+      }
+    ],
+    "host": "LAPTOP-SDN3QLB8"
+  },
+  "javascriptStack": {
+    "message": "No stack.",
+    "stack": [
+      "Unavailable."
+    ]
+  },
+  "nativeStack": [
+    {
+      "pc": "0x00007ff715696eb9",
+      "symbol": "std::basic_ostream<char,std::char_traits<char> >::operator<<+10873"
+    },
+    {
+      "pc": "0x00007ff71569b24c",
+      "symbol": "std::basic_ostream<char,std::char_traits<char> >::operator<<+28172"
+    },
+    {
+      "pc": "0x00007ff71569a1f8",
+      "symbol": "std::basic_ostream<char,std::char_traits<char> >::operator<<+23992"
+    },
+    {
+      "pc": "0x00007ff7157863cb",
+      "symbol": "v8::base::CPU::has_sse+37563"
+    },
+    {
+      "pc": "0x00007ff715f7976e",
+      "symbol": "v8::Isolate::ReportExternalAllocationLimitReached+94"
+    },
+    {
+      "pc": "0x00007ff715f61711",
+      "symbol": "v8::SharedArrayBuffer::Externalize+833"
+    },
+    {
+      "pc": "0x00007ff715e2f1cc",
+      "symbol": "v8::internal::Heap::EphemeronKeyWriteBarrierFromCode+1436"
+    },
+    {
+      "pc": "0x00007ff715e4339d",
+      "symbol": "v8::internal::Factory::AllocateRawFixedArray+61"
+    },
+    {
+      "pc": "0x00007ff715e4aa1c",
+      "symbol": "v8::internal::Factory::NewFixedArrayWithFiller+44"
+    },
+    {
+      "pc": "0x00007ff715e4a9e1",
+      "symbol": "v8::internal::Factory::NewUninitializedFixedArray+65"
+    },
+    {
+      "pc": "0x00007ff715d2b7ca",
+      "symbol": "v8::Message::GetIsolate+6570"
+    },
+    {
+      "pc": "0x00007ff715be14c0",
+      "symbol": "v8::internal::OrderedHashMap::ValueAt+61376"
+    },
+    {
+      "pc": "0x00007ff71639300d",
+      "symbol": "v8::internal::SetupIsolateDelegate::SetupHeap+575565"
+    },
+    {
+      "pc": "0x000003dde150f4da",
+      "symbol": ""
+    }
+  ],
+  "javascriptHeap": {
+    "totalMemory": 2953060352,
+    "totalCommittedMemory": 2953060352,
+    "usedMemory": 2917402152,
+    "availableMemory": 16987648,
+    "memoryLimit": 2197815296,
+    "heapSpaces": {
+      "read_only_space": {
+        "memorySize": 262144,
+        "committedMemory": 262144,
+        "capacity": 261832,
+        "used": 31432,
+        "available": 230400
+      },
+      "new_space": {
+        "memorySize": 33554432,
+        "committedMemory": 33554432,
+        "capacity": 16757248,
+        "used": 0,
+        "available": 16757248
+      },
+      "old_space": {
+        "memorySize": 12955648,
+        "committedMemory": 12955648,
+        "capacity": 11727016,
+        "used": 11727016,
+        "available": 0
+      },
+      "code_space": {
+        "memorySize": 688128,
+        "committedMemory": 688128,
+        "capacity": 436192,
+        "used": 436192,
+        "available": 0
+      },
+      "map_space": {
+        "memorySize": 1052672,
+        "committedMemory": 1052672,
+        "capacity": 755760,
+        "used": 755760,
+        "available": 0
+      },
+      "large_object_space": {
+        "memorySize": 1897984000,
+        "committedMemory": 1897984000,
+        "capacity": 1897938168,
+        "used": 1897938168,
+        "available": 0
+      },
+      "code_large_object_space": {
+        "memorySize": 49152,
+        "committedMemory": 49152,
+        "capacity": 3456,
+        "used": 3456,
+        "available": 0
+      },
+      "new_large_object_space": {
+        "memorySize": 1006514176,
+        "committedMemory": 1006514176,
+        "capacity": 1006510128,
+        "used": 1006510128,
+        "available": 0
+      }
+    }
+  },
+  "resourceUsage": {
+    "userCpuSeconds": 21.234,
+    "kernelCpuSeconds": 3.343,
+    "cpuConsumptionPercent": 72.2853,
+    "maxRss": 2969997312,
+    "pageFaults": {
+      "IORequired": 766754,
+      "IONotRequired": 0
+    },
+    "fsActivity": {
+      "reads": 816,
+      "writes": 14
+    }
+  },
+  "libuv": [
+  ],
+  "environmentVariables": {
+    "": "::=::\\",
+    "": "C:=C:\\",
+    "": "ExitCode=00000001",
+    "": "F:=F:\\good\\nodejs",
+    "ALLUSERSPROFILE": "C:\\ProgramData",
+    "APPDATA": "C:\\Users\\yzh\\AppData\\Roaming",
+    "asl.log": "Destination=file",
+    "CommonProgramFiles": "C:\\Program Files\\Common Files",
+    "CommonProgramFiles(x86)": "C:\\Program Files (x86)\\Common Files",
+    "CommonProgramW6432": "C:\\Program Files\\Common Files",
+    "COMPUTERNAME": "LAPTOP-SDN3QLB8",
+    "ComSpec": "C:\\WINDOWS\\system32\\cmd.exe",
+    "configsetroot": "C:\\WINDOWS\\ConfigSetRoot",
+    "DriverData": "C:\\Windows\\System32\\Drivers\\DriverData",
+    "FPS_BROWSER_APP_PROFILE_STRING": "Internet Explorer",
+    "FPS_BROWSER_USER_PROFILE_STRING": "Default",
+    "HOMEDRIVE": "C:",
+    "HOMEPATH": "\\Users\\yzh",
+    "LOCALAPPDATA": "C:\\Users\\yzh\\AppData\\Local",
+    "LOGONSERVER": "\\\\LAPTOP-SDN3QLB8",
+    "NUMBER_OF_PROCESSORS": "4",
+    "OneDrive": "C:\\Users\\yzh\\OneDrive",
+    "OS": "Windows_NT",
+    "Path": "C:\\PROGRAM FILES (X86)\\LENOVO\\FUSIONENGINE;C:\\WINDOWS\\SYSTEM32;C:\\WINDOWS;C:\\WINDOWS\\SYSTEM32\\WBEM;C:\\WINDOWS\\SYSTEM32\\WINDOWSPOWERSHELL\\V1.0\\;C:\\PROGRAM FILES (X86)\\COMMON FILES\\LENOVO\\EASYPLUSSDK\\BIN;C:\\PROGRAM FILES (X86)\\ATI TECHNOLOGIES\\ATI.ACE\\CORE-STATIC;;C:\\PROGRAM FILES\\NODEJS\\;C:\\Program Files\\Lenovo\\Bluetooth Software\\;C:\\Program Files\\Lenovo\\Bluetooth Software\\syswow64;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;;C:\\Users\\yzh\\AppData\\Roaming\\npm;C:\\Users\\yzh\\AppData\\Local\\Microsoft\\WindowsApps",
+    "PATHEXT": ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC",
+    "PROCESSOR_ARCHITECTURE": "AMD64",
+    "PROCESSOR_IDENTIFIER": "AMD64 Family 21 Model 96 Stepping 1, AuthenticAMD",
+    "PROCESSOR_LEVEL": "21",
+    "PROCESSOR_REVISION": "6001",
+    "ProgramData": "C:\\ProgramData",
+    "ProgramFiles": "C:\\Program Files",
+    "ProgramFiles(x86)": "C:\\Program Files (x86)",
+    "ProgramW6432": "C:\\Program Files",
+    "PROMPT": "$P$G",
+    "PSModulePath": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\Modules\\",
+    "PUBLIC": "C:\\Users\\Public",
+    "SESSIONNAME": "Console",
+    "SystemDrive": "C:",
+    "SystemRoot": "C:\\WINDOWS",
+    "TEMP": "C:\\Users\\yzh\\AppData\\Local\\Temp",
+    "TMP": "C:\\Users\\yzh\\AppData\\Local\\Temp",
+    "USERDOMAIN": "LAPTOP-SDN3QLB8",
+    "USERDOMAIN_ROAMINGPROFILE": "LAPTOP-SDN3QLB8",
+    "USERNAME": "yzh",
+    "USERPROFILE": "C:\\Users\\yzh",
+    "windir": "C:\\WINDOWS"
+  },
+  "sharedObjects": [
+    "C:\\PROGRAM FILES\\NODEJS\\node.exe",
+    "C:\\WINDOWS\\SYSTEM32\\ntdll.dll",
+    "C:\\WINDOWS\\System32\\KERNEL32.DLL",
+    "C:\\WINDOWS\\System32\\KERNELBASE.dll",
+    "C:\\WINDOWS\\System32\\WS2_32.dll",
+    "C:\\WINDOWS\\System32\\RPCRT4.dll",
+    "C:\\WINDOWS\\SYSTEM32\\dbghelp.dll",
+    "C:\\WINDOWS\\System32\\ADVAPI32.dll",
+    "C:\\WINDOWS\\System32\\ucrtbase.dll",
+    "C:\\WINDOWS\\System32\\msvcrt.dll",
+    "C:\\WINDOWS\\System32\\sechost.dll",
+    "C:\\WINDOWS\\System32\\USER32.dll",
+    "C:\\WINDOWS\\System32\\win32u.dll",
+    "C:\\WINDOWS\\System32\\GDI32.dll",
+    "C:\\WINDOWS\\System32\\gdi32full.dll",
+    "C:\\WINDOWS\\System32\\msvcp_win.dll",
+    "C:\\WINDOWS\\System32\\PSAPI.DLL",
+    "C:\\WINDOWS\\System32\\CRYPT32.dll",
+    "C:\\WINDOWS\\System32\\MSASN1.dll",
+    "C:\\WINDOWS\\System32\\bcrypt.dll",
+    "C:\\WINDOWS\\SYSTEM32\\IPHLPAPI.DLL",
+    "C:\\WINDOWS\\SYSTEM32\\USERENV.dll",
+    "C:\\WINDOWS\\SYSTEM32\\WINMM.dll",
+    "C:\\WINDOWS\\System32\\profapi.dll",
+    "C:\\WINDOWS\\SYSTEM32\\winmmbase.dll",
+    "C:\\WINDOWS\\System32\\cfgmgr32.dll",
+    "C:\\WINDOWS\\System32\\bcryptPrimitives.dll",
+    "C:\\WINDOWS\\System32\\IMM32.DLL",
+    "C:\\WINDOWS\\System32\\powrprof.dll",
+    "C:\\WINDOWS\\System32\\UMPDC.dll",
+    "C:\\WINDOWS\\system32\\uxtheme.dll",
+    "C:\\WINDOWS\\System32\\combase.dll",
+    "C:\\WINDOWS\\system32\\mswsock.dll",
+    "C:\\WINDOWS\\System32\\kernel.appcore.dll",
+    "C:\\WINDOWS\\SYSTEM32\\CRYPTBASE.DLL",
+    "C:\\WINDOWS\\System32\\NSI.dll",
+    "C:\\WINDOWS\\SYSTEM32\\dhcpcsvc6.DLL",
+    "C:\\WINDOWS\\SYSTEM32\\dhcpcsvc.DLL",
+    "C:\\WINDOWS\\SYSTEM32\\DNSAPI.dll",
+    "C:\\WINDOWS\\System32\\fwpuclnt.dll",
+    "C:\\Windows\\System32\\rasadhlp.dll",
+    "C:\\WINDOWS\\system32\\napinsp.dll",
+    "C:\\WINDOWS\\system32\\pnrpnsp.dll",
+    "C:\\WINDOWS\\System32\\winrnr.dll",
+    "C:\\WINDOWS\\system32\\NLAapi.dll",
+    "C:\\WINDOWS\\system32\\wshbth.dll"
+  ]
+}
