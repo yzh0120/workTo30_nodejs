@@ -4,32 +4,32 @@ module.exports = function (req, res) {
 		['test', '123456']
 	]
 	let status = arr.some((item) => {
-		if (req.body.username == item[0] && req.body.password == item[1]) {
+		if (req.body.userName == item[0] && req.body.password == item[1]) {
 			return true
 		}
 	})
 	if (status) {
-		if (req.body.username == "system") {
+		if (req.body.userName == "system") {
 			res.send({
 				code: 200,
-				
-				data:{
-					// username: req.body.username,
+
+				data: {
+					// userName: req.body.userName,
 					// roleArr: ['system'],
-					token: req.body.username,
-					expireDateTimeSpan: 7955078400000,
+					token: req.body.userName,
+					expireTime: 7955078400000,
 				}
 			})
-		}else if(req.body.username == "test"){
+		} else if (req.body.userName == "test") {
 			res.send({
 				code: 200,
-				
-				data:{
-					// username: req.body.username,
+
+				data: {
+					// userName: req.body.userName,
 					// roleArr: ['test'],
-					token: req.body.username,
-					expireDateTimeSpan: 7955078400000,
-					
+					token: req.body.userName,
+					expireTime: 7955078400000,
+
 				}
 			})
 		}
