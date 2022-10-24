@@ -14,8 +14,10 @@ module.exports = function (req, res) {
 				code: 200,
 
 				data: {
-					// userName: req.body.userName,
-					// roleArr: ['system'],
+					userName: req.body.userName,
+					roleArr: ['system'],
+					expireDateTimeSpan: 7955078400000,
+
 					token: req.body.userName,
 					expireTime: 7955078400000,
 				}
@@ -25,8 +27,10 @@ module.exports = function (req, res) {
 				code: 200,
 
 				data: {
-					// userName: req.body.userName,
-					// roleArr: ['test'],
+					userName: req.body.userName,
+					roleArr: ['test'],
+					expireDateTimeSpan: 7955078400000,
+
 					token: req.body.userName,
 					expireTime: 7955078400000,
 

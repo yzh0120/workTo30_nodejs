@@ -22,6 +22,7 @@ module.exports = function (req, res) {
 		code: 200,
 		data: {
 			contents: arr,
+			records: arr,
 			total: 100
 		}
 	});

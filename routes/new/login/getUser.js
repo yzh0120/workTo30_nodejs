@@ -6,6 +6,7 @@ module.exports = function (req, res) {
 				code: 200,
 				data: {
 					userName: item,
+					username: item,
 					id: item,
 				}
 			})
