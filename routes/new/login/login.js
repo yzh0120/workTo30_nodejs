@@ -9,7 +9,7 @@ module.exports = function (req, res) {
 		}
 	})
 	if (status) {
-		if (req.body.userName == "system") {
+		if (req.body.userName == "system" || req.body.username == "system") {
 			res.send({
 				code: 200,
 
@@ -22,7 +22,7 @@ module.exports = function (req, res) {
 					expireTime: 7955078400000,
 				}
 			})
-		} else if (req.body.userName == "test") {
+		} else if (req.body.userName == "test" || req.body.username == "test") {
 			res.send({
 				code: 200,
 
