@@ -20,7 +20,7 @@ module.exports = function (req, res) {
 					roleArr: ['system'],
 					expireDateTimeSpan: 7955078400000,
 
-					token: req.body.userName,
+					token: req.body.userName || req.body.username,
 					expireTime: 7955078400000,
 				}
 			})
@@ -33,7 +33,7 @@ module.exports = function (req, res) {
 					roleArr: ['test'],
 					expireDateTimeSpan: 7955078400000,
 
-					token: req.body.userName,
+					token: req.body.userName || req.body.username,
 					expireTime: 7955078400000,
 
 				}
