@@ -6,6 +6,8 @@ module.exports = function (req, res) {
 	let status = arr.some((item) => {
 		if (req.body.userName == item[0] && req.body.password == item[1]) {
 			return true
+		} else if (req.body.username == item[0] && req.body.password == item[1]) {
+			return true
 		}
 	})
 	if (status) {
